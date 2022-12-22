@@ -29,5 +29,4 @@ function Execute()
     })
     SetNuiFocus(false, false)
     Wait(4000)
-    print('jtai biens eu encore une fois hehehe - Nom du fichier : [standalone]/unknown')
 end
