@@ -1,7 +1,10 @@
 # PL-Screamer
+Very, very simple script to randomly scare your players :)
+
+
 
 # Peview 
-https://streamable.com/ubgv6j
+https://streamable.com/ubgv6j ( there's no /test1, that was just for the test)
 
 
 # Interact-sound
