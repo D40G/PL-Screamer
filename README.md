@@ -1,4 +1,4 @@
-# PL-Screamer
+# PLAID Screamer
 Very, very simple script to randomly scare your players :)
 
 
