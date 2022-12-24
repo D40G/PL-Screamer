@@ -21,3 +21,8 @@ https://github.com/plunkettscott/interact-sound
 - Add it to your server.cfg ( ensure PL-Screamer )
 
 ( Notice that ESX version has not been tested )
+
+# Support 
+<a href="https://discord.gg/X2tycCepgH">
+    <img src="https://cdn.discordapp.com/attachments/982364954638295080/982721347677478982/CaGYpture2.png" alt="</INSPECT • Laboratory>" width="200" height="200"/>
+  </a>
