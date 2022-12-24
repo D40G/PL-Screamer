@@ -19,3 +19,5 @@ https://github.com/plunkettscott/interact-sound
 - Checkout the Config
 - Copy paste the ogg file inside the interact-sound (/client/html/sounds/)
 - Add it to your server.cfg ( ensure PL-Screamer )
+
+( Notice that ESX version has not been tested )
