@@ -4,11 +4,15 @@ Very, very simple script to randomly scare your players :)
 
 
 # Peview 
-https://streamable.com/ubgv6j ( there's no /test1, that was just for the test)
+https://streamable.com/ubgv6j
 
 
 # Interact-sound
 https://github.com/plunkettscott/interact-sound
+
+# Utilisation 
+- You can use /scream to shout all players on the server
+- Random system so that each player can get scared at a random time
 
 # INSTALLATION
 - Drag and drop the file in your resource folder
