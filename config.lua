@@ -3,7 +3,7 @@ Config = {}
 Config.Framework = 'qbcore' -- qbcore / esx
 
 Config.EnableCommand = true
-Config.EnableRandomScrem = true
+Config.EnableRandomScream = true
 Config.Image = '' -- if you want to replace the existing image with a link for exemple : https://i.kym-cdn.com/photos/images/newsfeed/002/444/001/a3e.jpg
 
 Config.CommandName = 'scream'
