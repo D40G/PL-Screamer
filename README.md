@@ -13,6 +13,7 @@ https://github.com/plunkettscott/interact-sound
 # Utilisation 
 - You can use /scream to shout all players on the server
 - Random system so that each player can get scared at a random time
+- 0.00ms ~ 0.01ms
 
 # INSTALLATION
 - Drag and drop the file in your resource folder
